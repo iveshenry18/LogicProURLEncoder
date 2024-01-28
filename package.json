@@ -1,0 +1,19 @@
+{
+  "name": "logicprourlencoder",
+  "version": "1.0.0",
+  "description": "A script for encoding filepaths as Logic Pro Deep Links",
+  "main": "bin.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Henry Ives",
+  "license": "ISC",
+  "dependencies": {
+    "clipboardy": "^4.0.0",
+    "commander": "^11.1.0"
+  },
+  "bin": {
+    "logicproencodeurl": "./index.js"
+  }
+}
