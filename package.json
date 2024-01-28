@@ -7,6 +7,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iveshenry18/LogicProURLEncoder.git"
+  },
+  "homepage": "https://github.com/iveshenry18/LogicProURLEncoder/",
   "author": "Henry Ives",
   "license": "ISC",
   "dependencies": {
